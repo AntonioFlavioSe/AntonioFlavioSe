@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Antonio Flavio;
-- 👀 I’m interested in web developer and game developer;
+- 👀 I’m interested in web developing and game developing;
 - 🌱 I’m currently learning Java Script;
 - 💞️ I’m looking to collaborate on web developing;
 - 📫 How to reach me flaviosepulvedacontato@gmail.com.
